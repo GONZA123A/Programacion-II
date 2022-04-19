@@ -3,7 +3,7 @@
 * {
   font-family: Open Sans;
 }
-
+.foot
 section {
   width: 100%;
   display: inline-block;
@@ -80,7 +80,7 @@ section {
 }
 
 .footer-distributed .footer-center i{
-	background-color:  #33383b;
+
 	color: #ffffff;
 	font-size: 25px;
 	width: 38px;
